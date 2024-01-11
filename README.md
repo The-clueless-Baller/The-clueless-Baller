@@ -4,7 +4,7 @@
 
  The future of engineering is strong: https:[I did a thing](//www.youtube.com/@Ididathing)
  Engineer in question pretending to weld something that dosent need to be welded.
- https://i.ytimg.com/an_webp/Y5RQgchauHs/mqdefault_6s.webp?du=3000&sqp=CLD9_6wG&rs=AOn4CLAHkLATu-_gQ9qZyESA4tK0BGGMtQ
+ ![Bad Welding](https://i.ytimg.com/an_webp/Y5RQgchauHs/mqdefault_6s.webp?du=3000&sqp=CLD9_6wG&rs=AOn4CLAHkLATu-_gQ9qZyESA4tK0BGGMtQ)
 
 
  I went to robocup internationals last year, but was wildey unqualified. This is the team captain of our team: [William](https://github.com/ahyesthething)
