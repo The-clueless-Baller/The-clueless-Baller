@@ -2,7 +2,7 @@
 
  My name is Nixon Ball. I usually fail to code until it's an absolute mess that barely work. Feel free to take it. :+1:
 
- The future of engineering is strong: https:[I did a thing](//www.youtube.com/@Ididathing)
+ The future of engineering is strong: [I did a thing](//www.youtube.com/@Ididathing)
  Engineer in question pretending to weld something that dosent need to be welded.
  ![Bad Welding](https://i.ytimg.com/an_webp/Y5RQgchauHs/mqdefault_6s.webp?du=3000&sqp=CLD9_6wG&rs=AOn4CLAHkLATu-_gQ9qZyESA4tK0BGGMtQ)
 
